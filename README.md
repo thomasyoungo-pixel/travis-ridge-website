@@ -23,3 +23,4 @@ Static site — no build step, no dependencies. Open `index.html` in a browser, 
 - Contact email is `partners@travisridge.com` (assumed) — confirm the real address.
 - Contact form uses a `mailto:` handoff; wire a real endpoint if server-side handling is wanted.
 # travis-ridge-website
+# travis-ridge-website
