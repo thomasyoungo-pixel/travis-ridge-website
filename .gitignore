@@ -1,6 +1,9 @@
 # Local dev tooling (machine-specific absolute paths)
 .claude/
 
+# Backup archive of an earlier version
+Archive.zip
+
 # OS cruft
 .DS_Store
 Thumbs.db
